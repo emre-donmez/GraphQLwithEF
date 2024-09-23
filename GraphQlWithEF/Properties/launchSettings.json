@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GraphQlWithEF": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "ui/playground",
+      "applicationUrl": ""
+    }
+  }
+}
